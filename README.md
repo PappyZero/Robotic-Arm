@@ -38,5 +38,5 @@ Control System
       ■ Wrist Pitch and Wrist Roll: Allows wrist rotation and bending.
       ■ Gripper Servo: Enables grasping and releasing of objects.
 
-![alt text](https://github.com/PappyZero/Robotic-Arm/blob/main/Images/Robotic-Arm-System-Architecture.png?raw=true)
+![alt text](https://github.com/PappyZero/Robotic-Arm/blob/main/ROBOTIC-ARM/Images/Robotic-Arm-System-Architecture.png?raw=true)
 
