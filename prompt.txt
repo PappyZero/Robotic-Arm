@@ -1,0 +1,104 @@
+The components:
+
+S/N	Component Name	Amount	Price
+1     	servo motors
+2	Bread Board		
+3	Arduino Uno	
+9	Male to female Jumper wires		
+10	Male to Male Jumper Wire		
+11	Hard Jumper Wires		
+12	On/Off Switch		
+13	18650 Battery Holder – 2 Cell		
+14	18650 Battery Cell 3.7V	2	
+15	Battery charger		
+
+I need the below:
+
+1. work plan
+2. Details of the tools and components and their relevance or functions in realizing your work
+3. Detailed diagram of the components and their INPUTS / OUTPUT requirements 
+4. Schematic diagram of the entire work
+5. Timeline of delivery breaking the objectives to be achieved to times and dates
+6. And a simulation or diagram of the expected visuals of the project.
+
+from what i have provided, add your own improvement and share the work ( documentation, design, implementation, coupling, coding and other necessary activity or work)  between 5 people.
+
+PS: suggest a material that will be used for the arm
+
+
+
+
+
+
+
+
+
+
+
+
+Create a professional academic presentation on "Blockchain-Based Academic Transcript System" with the following structure:
+
+Title Slide:
+- Title: "Revolutionizing Academic Credentials: A Blockchain-Based Transcript System"
+- Subtitle: "Enhancing Security, Trust, and Efficiency in Educational Record Management"
+
+Introduction Slides:
+1. Problem Statement
+- Current challenges in academic transcript management
+- Issues with traditional systems (security, verification, accessibility)
+- Visual: Infographic showing pain points in current system
+
+2. Research Objectives
+- List of core objectives
+- Visual: Simple flowchart showing research goals
+
+3. Technology Overview
+- Blockchain fundamentals
+- Visual: Simple blockchain structure diagram
+- Key components: cryptography, consensus, distributed ledger
+
+4. System Architecture
+- Visual: System diagram showing interaction between:
+  * Universities (issuers)
+  * Students (owners)
+  * Employers (verifiers)
+  * Blockchain network
+
+5. Key Features & Benefits
+- Security improvements
+- Verification process
+- Accessibility
+- Visual: Comparison table of traditional vs blockchain system
+
+6. Technical Implementation
+- Digital signatures
+- Hash functions
+- Smart contracts
+- Visual: Flow diagram of verification process
+
+7. Innovation & Impact
+- Benefits for stakeholders
+- Future implications
+- Visual: Impact metrics or benefits diagram
+
+Design Guidelines:
+- Use a professional, academic color scheme (suggested: blue, white, grey)
+- Include relevant icons and diagrams
+- Keep text concise and bullet-pointed
+- Use consistent fonts (suggested: Arial for headings, Calibri for body)
+- Include transition slides between major sections
+- Add page numbers
+- Include references slide at the end
+
+Each slide should:
+- Have clear headings
+- Use minimal text (max 6 bullet points per slide)
+- Include relevant visuals
+- Maintain consistent branding
+- Be easily readable from a distance
+
+Additional Notes:
+- Create smooth transitions between slides
+- Include speaker notes where appropriate
+- Ensure diagrams are simple and clear
+- Use animations sparingly and professionally

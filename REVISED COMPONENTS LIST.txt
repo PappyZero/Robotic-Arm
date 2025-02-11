@@ -1,0 +1,161 @@
+1. REVISED COMPONENTS LIST:
+Required Components:
+	- 6x MG996R Servo Motors (stronger for base and main joints)
+	- 1x Arduino Uno R3
+	- 1x Breadboard
+	- 2x 18650 Battery (3.7V)
+	- 1x 18650 Battery Holder (2-cell)
+	- 1x Battery Charger
+	- 1x Power switch
+	- 20x Male-to-Female jumper wires
+	- 20x Male-to-Male jumper wires
+	- Hard jumper wires (pack)
+	- 1x Servo Driver Board (PCA9685) - for better servo control
+	- Power distribution board
+
+
+
+2. TEAM STRUCTURE (5 People):
+	Team Member 1 (Project Lead):
+	- Overall project coordination
+	- Timeline management
+	- Documentation lead
+
+	Team Member 2 (Hardware Specialist):
+	- 3D printing coordination
+	- Mechanical assembly
+	- Material procurement
+
+	Team Member 3 (Electronics):
+	- Circuit design
+	- Component testing
+	- Power management
+
+	Team Member 4 (Programming):
+	- Arduino code development
+	- Servo control programming
+	- Testing protocols
+
+	Team Member 5 (Design & Testing):
+	- 3D design
+	- Testing procedures
+	- Quality assurance
+
+
+
+3. PROJECT TIMELINE (2.5 months):
+	Week 1-2:
+	Design phase
+	Component procurement
+	Initial 3D modeling
+
+	Week 3-4:
+	3D printing of parts
+	Basic circuit assembly
+	Initial programming setup
+
+	Week 5-6:
+	Mechanical assembly
+	Basic movement programming
+	Power system setup
+
+	Week 7-8:
+	Integration testing
+	Movement refinement
+	Documentation
+
+	Week 9-10:
+	Final testing
+	Bug fixes
+	Project documentation completion
+
+
+
+
+4. MATERIAL RECOMMENDATIONS FOR ARM:
+	Main structure: 3D printed PLA+ (stronger than standard PLA)
+	Joint connections: M3 and M4 bolts and nuts
+	Base: Thicker PLA+ print with additional weight for stability
+	Gripper: TPU or flexible PLA for better grip
+
+
+
+5. First week tasks:
+
+	- Order all electronic components
+	- Begin 3D design of basic parts
+	- Set up development environment for Arduino
+	- Create initial project documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+ COMPREHENSIVE DETAILS FOR EACH ASPECT
+
+	1. POWER CONSUMPTION CALCULATIONS:
+		MG996R Servo Specifications:
+			Operating voltage: 4.8V-7.2V
+			Stall current: 2.5A (max)
+			Running current: ~500mA-1.2A (depending on load)
+
+		Total Power Requirements:
+			Servos (6x):
+				Peak current: 6 × 2.5A = 15A (theoretical max)
+				Average running: 6 × 800mA = 4.8A
+				Idle: 6 × 100mA = 0.6A
+
+		Arduino Uno:
+			Operating current: ~50mA
+			With all pins active: ~100mA
+
+		PCA9685 Servo Driver:
+			Operating current: ~10mA
+
+		Battery Calculations:
+			Using 2x 18650 batteries in series (7.4V)
+			Typical 18650 capacity: 2500mAh
+			Expected runtime: ~30-45 minutes of continuous operation
+
+Recommended: Keep spare charged batteries
+
+
+
+	Key Assembly Notes:
+
+		Use thick gauge wires (16-18 AWG) for power distribution
+		Add capacitors (1000µF) near servo power connections
+		Keep signal wires away from power wires to reduce interference
+		Add heat sinks to voltage regulators
+		Use screw terminals for main power connections
+		Add fuse protection (10A) on main power line
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
